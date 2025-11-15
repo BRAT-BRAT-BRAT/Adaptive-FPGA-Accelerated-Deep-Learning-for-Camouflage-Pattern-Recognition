@@ -499,7 +499,6 @@ Thumbs.db
 
 ***
 
-**Just copy the README above directly into your GitHub repository!** Replace `[Your Name]` and `your.email@example.com` with your actual information. 🎯
 
 [1](https://github.com/fastmachinelearning/hls4ml)
 [2](https://github.com/nhma20/FPGA_AI)
